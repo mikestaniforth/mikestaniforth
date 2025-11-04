@@ -21,8 +21,10 @@
 
 ### 🏅 Certifications
 
-[![Google Cloud Digital Leader](https://images.credly.com/size/110x110/images/241d2f9b-c6f7-4e39-8d9d-58d6f1f9b8b3/image.png)](https://www.credly.com/badges/6cf50854-d7f6-4924-9dec-a804e5d0b638/public_url)
-**Google Cloud Digital Leader** — Verified by Google Cloud via [Credly](https://www.credly.com/)
+<a href="https://www.credly.com/badges/6cf50854-d7f6-4924-9dec-a804e5d0b638/public_url" target="_blank">
+  <img src="https://images.credly.com/size/200x200/images/241d2f9b-c6f7-4e39-8d9d-58d6f1f9b8b3/image.png" alt="Google Cloud Digital Leader" width="120" height="120" />
+</a>  
+**Google Cloud Digital Leader** — Verified by Google Cloud via [Credly](https://www.credly.com)
 
 ---
 
