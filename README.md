@@ -15,7 +15,7 @@
 ### 🧠 Current Focus
 🚀 Developing AI-powered production tools  
 🎨 Exploring generative film concepts at Vertical Haus  
-📊 Building donation-driven art projects like *This Page Exists*
+📊 Building donation-driven art projects like [*This Page Exists*](http://thispageexists.com)
 
 ---
 
