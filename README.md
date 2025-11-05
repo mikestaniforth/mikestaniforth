@@ -31,4 +31,4 @@
 
 
 ### 🌐 Connect
-[🌍 Website](http://vertical.haus) | [🎬 Instagram](https://instagram.com/mikestaniforth) | [🏗️ Vertical Haus](https://instagram.com/verticalhaus)
+[🌍 Website](http://vertical.haus) | [🎬 Instagram](https://instagram.com/mikestaniforth) | [👔 Linkedin](https://uk.linkedin.com/in/mike-staniforth)
