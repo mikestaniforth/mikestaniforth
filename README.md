@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mike Staniforth
-🎥 Cinematographer turned programmer  
-💡 Founder of [Vertical Haus](http://vertical.haus) | Building AI tools for film & storytelling  
-📍 Manchester, UK  
+####🎥 Cinematographer turned programmer  
+####💡 Founder of [Vertical Haus](http://vertical.haus) | Building AI tools for film & storytelling  
+#####📍 Manchester, UK  
 
 ---
 
