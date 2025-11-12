@@ -22,10 +22,10 @@
 ### 🏅 Certifications
 
 <a href="https://www.credly.com/badges/6cf50854-d7f6-4924-9dec-a804e5d0b638/public_url" target="_blank">
-  <img src="https://images.credly.com/size/680x680/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" alt="Google Cloud Digital Leader" width="120" height="120" />
+  <img src="https://images.credly.com/size/680x680/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" alt="Google Gen-AI Leader" width="120" height="120" />
 </a>  
 
-**Google Gen-AI Leader** — Verified by Google Cloud via [Credly](https://www.credly.com)
+**Google Gen-AI Leader** — Verified by Google Cloud via [Credly]([https://www.credly.com](https://www.credly.com/badges/6cf50854-d7f6-4924-9dec-a804e5d0b638/public_url))
 
 ---
 
