@@ -8,13 +8,17 @@ I build practical tools where filmmaking, applied AI and software meet: creative
 
 ## Current projects
 
+### [SeenMade](https://seenmade.com)
+
+Launching soon. My new company designing and building focused websites, web apps and working prototypes for small businesses, creative teams and founders.
+
 ### [Founder Launch OS](https://mikestaniforth.com/founder-launch-os)
 
 A guided, local-first operating system for launching one founder-led business with Codex or Claude Code. It turns an existing idea into a connected brand, flagship offer, working landing page and visual campaign.
 
 ### [MS Free FX](https://mikestaniforth.com/free-fx)
 
-Three free, adjustable effects for DaVinci Resolve Studio: MS VHS, Curved CRT and Optical Bloom. Built and tested from a working cinematographer's perspective.
+Three free, adjustable effects for DaVinci Resolve Studio: MS Curved CRT, MS VHS and MS Optical Bloom. Built and tested from a working cinematographer's perspective, with no third-party runtime plug-ins required.
 
 ## What I work on
 
