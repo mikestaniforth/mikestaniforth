@@ -20,6 +20,10 @@ A guided, local-first operating system for launching one founder-led business wi
 
 Three free, adjustable effects for DaVinci Resolve Studio: MS Curved CRT, MS VHS and MS Optical Bloom. Built and tested from a working cinematographer's perspective, with no third-party runtime plug-ins required.
 
+### [This Page Exists](https://thispageexists.com)
+
+A digital experiment in time, art and community. The project explores whether collective attention can keep a page alive and, after launch, shape an evolving community mosaic.
+
 ## What I work on
 
 - **AI production systems** — structured workflows for image, video and creative decision-making
