@@ -6,6 +6,38 @@ I build practical tools where filmmaking, applied AI and software meet: creative
 
 [Personal site](https://mikestaniforth.com) · [Instagram](https://instagram.com/mikestaniforth) · [LinkedIn](https://uk.linkedin.com/in/mike-staniforth)
 
+## Selected engineering projects
+
+### [SeenMade Motion Studio](https://github.com/mikestaniforth/seenmade-motion-studio)
+
+A creative workspace connecting node-based image workflows, motion design and video timelines.
+
+Engineering focus: validated project contracts, shared preview/render components, immutable project revisions and durable rendering jobs. Includes a local workspace and an optional local MP4 renderer.
+
+**TypeScript · React · Remotion · Google Cloud**
+
+### [Caption Canvas](https://github.com/mikestaniforth/caption-canvas)
+
+A browser-first editor for captions and motion typography, with local transcription and subject masking.
+
+Engineering focus: media workers, timed caption layout, a shared Canvas preview/export renderer, and unit and browser tests.
+
+**TypeScript · React · Canvas · Transformers.js · MediaPipe**
+
+### [Storyweaver](https://github.com/mikestaniforth/storyweaver)
+
+A cooperative storytelling game with a deterministic local demo and an optional AI narrative provider.
+
+Engineering focus: server-owned game rules, schema-validated narrative updates, turn coordination, idempotency and isolation tests.
+
+**TypeScript · React · Firebase · Vertex AI**
+
+### [Creative Technology Portfolio](https://github.com/mikestaniforth/creative-technology-portfolio)
+
+A responsive React portfolio with build-time route rendering, accessible controls, reduced-motion support and browser tests.
+
+**TypeScript · React · Vite · GSAP**
+
 ## Current projects
 
 ### [SeenMade](https://seenmade.com)
