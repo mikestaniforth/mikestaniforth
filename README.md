@@ -8,35 +8,36 @@ I build practical tools where filmmaking, applied AI and software meet: creative
 
 ## Selected engineering projects
 
-### [SeenMade Motion Studio](https://github.com/mikestaniforth/seenmade-motion-studio)
-
-A creative workspace connecting node-based image workflows, motion design and video timelines.
-
-Engineering focus: validated project contracts, shared preview/render components, immutable project revisions and durable rendering jobs. Includes a local workspace and an optional local MP4 renderer.
-
-**TypeScript · React · Remotion · Google Cloud**
-
-### [Caption Canvas](https://github.com/mikestaniforth/caption-canvas)
-
-A browser-first editor for captions and motion typography, with local transcription and subject masking.
-
-Engineering focus: media workers, timed caption layout, a shared Canvas preview/export renderer, and unit and browser tests.
-
-**TypeScript · React · Canvas · Transformers.js · MediaPipe**
-
-### [Storyweaver](https://github.com/mikestaniforth/storyweaver)
-
-A cooperative storytelling game with a deterministic local demo and an optional AI narrative provider.
-
-Engineering focus: server-owned game rules, schema-validated narrative updates, turn coordination, idempotency and isolation tests.
-
-**TypeScript · React · Firebase · Vertex AI**
-
-### [Creative Technology Portfolio](https://github.com/mikestaniforth/creative-technology-portfolio)
-
-A responsive React portfolio with build-time route rendering, accessible controls, reduced-motion support and browser tests.
-
-**TypeScript · React · Vite · GSAP**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mikestaniforth/seenmade-motion-studio"><img src="https://raw.githubusercontent.com/mikestaniforth/mikestaniforth/main/assets/projects/seenmade-motion-studio.png" alt="Motion Studio showing its node-based creative workflow canvas" width="480"></a>
+      <h3><a href="https://github.com/mikestaniforth/seenmade-motion-studio">SeenMade Motion Studio</a></h3>
+      <p>A creative workflow canvas, motion designer and video timeline built around one typed project.</p>
+      <p><sub>TypeScript · React · Remotion</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mikestaniforth/caption-canvas"><img src="https://raw.githubusercontent.com/mikestaniforth/mikestaniforth/main/assets/projects/caption-canvas.png" alt="Caption Canvas showing the local video editor welcome screen" width="480"></a>
+      <h3><a href="https://github.com/mikestaniforth/caption-canvas">Caption Canvas</a></h3>
+      <p>A browser video editor for local transcription, captions and motion typography.</p>
+      <p><sub>TypeScript · Canvas · Transformers.js</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mikestaniforth/storyweaver"><img src="https://raw.githubusercontent.com/mikestaniforth/mikestaniforth/main/assets/projects/storyweaver.png" alt="Storyweaver showing its illustrated adventure welcome screen" width="480"></a>
+      <h3><a href="https://github.com/mikestaniforth/storyweaver">Storyweaver</a></h3>
+      <p>A cooperative storytelling demo with deterministic rules and coordinated multiplayer turns.</p>
+      <p><sub>TypeScript · React · Firebase</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mikestaniforth/creative-technology-portfolio"><img src="https://raw.githubusercontent.com/mikestaniforth/mikestaniforth/main/assets/projects/creative-technology-portfolio.png" alt="Mike Staniforth portfolio showing the Film craft. Working software. homepage" width="480"></a>
+      <h3><a href="https://github.com/mikestaniforth/creative-technology-portfolio">Creative Technology Portfolio</a></h3>
+      <p>A responsive portfolio with prerendered routes, accessible controls and considered motion.</p>
+      <p><sub>React · TypeScript · GSAP</sub></p>
+    </td>
+  </tr>
+</table>
 
 ## Current projects
 
