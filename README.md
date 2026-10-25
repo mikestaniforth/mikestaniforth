@@ -37,6 +37,16 @@ I build practical tools where filmmaking, applied AI and software meet: creative
       <p><sub>React · TypeScript · GSAP</sub></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mikestaniforth/talkie-macos"><img src="https://raw.githubusercontent.com/mikestaniforth/mikestaniforth/main/assets/projects/talkie.svg" alt="Illustrative Talkie interface with synthetic text showing its native dictation library and recording overlay" width="480"></a>
+      <h3><a href="https://github.com/mikestaniforth/talkie-macos">Talkie</a></h3>
+      <p>An experimental native Mac dictation app with custom shortcuts, on-device recognition and recoverable local history.</p>
+      <p><sub>Swift · SwiftUI · AppKit · WhisperKit · SQLite</sub></p>
+      <p><sub>Beta. Illustrative preview with synthetic text. Long USB captures and editor compatibility need further testing.</sub></p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ## Current projects
